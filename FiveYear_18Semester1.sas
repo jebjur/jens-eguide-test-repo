@@ -1,3 +1,4 @@
+/*comment before code - kat*/
 Options nonumber;
 LIBNAME library "c:\" ;
  PROC FORMAT;
